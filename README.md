@@ -8,6 +8,8 @@ The final model selected was the **XGBoost Classifier**, after comparing several
 
 **Dataset link on Kaggle:**  
 [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+**Article link on portifolio:**  
+[Article](impossible-gondola-c84.notion.site/Fraud-detection-218ffb9f986680398762f1904d23c227?pvs=74)
 
 ---
 
